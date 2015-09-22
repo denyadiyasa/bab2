@@ -1,0 +1,18 @@
+<xml version="1.0" encoding="ISO-8859-1"?>
+<data_mahasiswa>
+	<mhs category="Komsi">
+		<nama>Deny Adiyasa</nama>
+		<nim>03119</nim>
+		<alamat>bekasi</alamat>
+	</mhs>
+	<mhs category="komsi">
+		<nama>haris</nama>
+		<nim>03628</nim>
+		<alamat>Madiun</alamat>
+	</mhs>
+	<mhs category="REKMED">
+		<nama>Rendi</nama>
+		<nim>03693</nim>
+		<alamat>Malang</alamat>
+	</mhs>
+</data_mahasiswa>
